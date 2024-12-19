@@ -1,4 +1,4 @@
-# spotify-end-to-end-de-project
+# Spotify Data Engineering Project
 In this project, we are building a data pipeline using AWS - Lambda, S3, Glue, CloudWatch.
 
 
