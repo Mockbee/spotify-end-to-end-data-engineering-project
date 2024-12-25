@@ -3,7 +3,7 @@ In this project, we are building a data pipeline using AWS - Lambda, S3, Glue, C
 
 
 ### Project Architecture: 
-![Architecture Diagram](https://github.com/ArpiteshSrivastava/spotify-data-engineering-project/blob/main/Project%20Architecture%20Diagram.png)
+![Architecture Diagram](https://github.com/Mockbee/nyc-taxi-end-to-end-de-project/blob/main/Screenshot%202024-12-22%20174534.png)
 
 ### About Dataset/API Used
 This project utilizes the **Spotify API**, which provides detailed information about music artists, albums, and songs. You can explore the API documentation [here](https://developer.spotify.com/documentation/web-api).
